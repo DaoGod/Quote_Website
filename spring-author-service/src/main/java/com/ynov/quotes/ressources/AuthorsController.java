@@ -16,7 +16,7 @@ import com.ynov.quotes.models.Quote;
 @RestController
 @RequestMapping("/author")
 public class AuthorsController {
-	d
+	
 	@RequestMapping("/{userID}")
 	public List<QuotesList> getCatalog(@PathVariable("userID") String userID) {
 		
