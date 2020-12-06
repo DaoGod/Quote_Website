@@ -6,10 +6,6 @@ public class Quote {
 	private String quote;
 	private String author;
 	
-	public Quote() {
-		
-	}
-	
 	public Quote(String quoteID, String quote, String author) {
 		this.quoteID = quoteID;
 		this.quote = quote;
