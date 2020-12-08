@@ -1,4 +1,4 @@
 Participants au projet :
-Enzo Pistre
-Alexis Brouard
+Enzo Pistre,
+Alexis Brouard,
 Maxence Rougé
