@@ -1,0 +1,3 @@
+INSERT INTO types VALUES (1, "Dans la vie on ne fait pas ce que l'on veut mais on est responsable de ce que l'on est.", "Jean-Paul Sartre");
+INSERT INTO types VALUES (2, "La vie est un mystère qu'il faut vivre, et non un problème à résoudre.", "Gandhi");
+INSERT INTO types VALUES (3, "On passe une moitié de sa vie à attendre ceux qu'on aimera et l'autre moitié à quitter ceux qu'on aime.", "Victor Hugo");
